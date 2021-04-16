@@ -1,0 +1,22 @@
+{
+  "name": "mini_react_project_tours-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshay-sahu-au13/Mini_react_project_Tours-page.git"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshay-sahu-au13/Mini_react_project_Tours-page/issues"
+  },
+  "homepage": "https://github.com/akshay-sahu-au13/Mini_react_project_Tours-page#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
